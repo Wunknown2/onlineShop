@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "title": "Футболка",
+      "description": "Найк",
+      "price": 200,
+      "image": "https://akn-ss.b-cdn.net/products/2022/01/20/384148/33db49e0-efe2-49cc-a9c8-c626fd4c58d3_size1400x1400_quality100_cropCenter.jpg",
+      "id": 1
+    },
+    {
+      "title": "Шорты",
+      "description": "Найк",
+      "price": 200,
+      "image": "https://akn-ss.b-cdn.net/products/2022/01/20/384148/33db49e0-efe2-49cc-a9c8-c626fd4c58d3_size1400x1400_quality100_cropCenter.jpg",
+      "id": 2
+    },
+    {
+      "title": "Футболка",
+      "description": "Найк",
+      "price": 200,
+      "image": "https://akn-ss.b-cdn.net/products/2022/01/20/384148/33db49e0-efe2-49cc-a9c8-c626fd4c58d3_size1400x1400_quality100_cropCenter.jpg",
+      "id": 3
+    },
+    {
+      "title": "Футболка",
+      "description": "Найк",
+      "price": 200,
+      "image": "https://akn-ss.b-cdn.net/products/2022/01/20/384148/33db49e0-efe2-49cc-a9c8-c626fd4c58d3_size1400x1400_quality100_cropCenter.jpg",
+      "id": 4
+    },
+    {
+      "title": "Футболка",
+      "description": "Найк",
+      "price": 200,
+      "image": "https://akn-ss.b-cdn.net/products/2022/01/20/384148/33db49e0-efe2-49cc-a9c8-c626fd4c58d3_size1400x1400_quality100_cropCenter.jpg",
+      "id": 5
+    },
+    {
+      "title": "Кепка",
+      "description": "Кепка 2",
+      "category": "Кепки",
+      "price": 2500,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/052919/09/fnd/RUS/w/1000/h/1000/fmt/png.jpg",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "name": "худи",
+      "id": 1
+    },
+    {
+      "name": "Кепки",
+      "id": 2
+    },
+    {
+      "name": "Шапки",
+      "id": 3
+    }
+  ]
+}
